@@ -28,7 +28,7 @@ public class Principal {
                         convertAndDisplay(converter, EUR, USD, "EUR", "USD", scanner);
                         break;
                     case 3:
-                        convertAndDisplay(converter, USD, CNY, "BRL", "CNY", scanner);
+                        convertAndDisplay(converter, BRL, USD, "BRL", "USD", scanner);
                         break;
                     case 4:
                         convertAndDisplay(converter, USD, BRL, "USD", "BRL", scanner);
